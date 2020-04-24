@@ -1,0 +1,80 @@
+2020-04-24 19:52:55,804 || INFO || numeric_functions || 5 + 5 = 10
+2020-04-24 19:52:55,804 || INFO || numeric_functions || 5 + 10 = 15
+2020-04-24 19:52:55,804 || INFO || numeric_functions || 5 + -10 = -5
+2020-04-24 19:52:55,804 || INFO || numeric_functions || 5 / 5 = 1.0
+2020-04-24 19:52:55,804 || INFO || numeric_functions || This we gonna log always.
+2020-04-24 19:52:55,804 || INFO || numeric_functions || 5 / 10 = 0.5
+2020-04-24 19:52:55,804 || INFO || numeric_functions || This we gonna log always.
+2020-04-24 19:52:55,804 || INFO || numeric_functions || 5 / -10 = -0.5
+2020-04-24 19:52:55,804 || INFO || numeric_functions || This we gonna log always.
+2020-04-24 19:52:55,804 || ERROR || numeric_functions || Someone tried to divide by zero!
+Traceback (most recent call last):
+  File "/Users/julius/Documents/Python_Playgrounds/debug_unit/numeric_functions.py", line 27, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2020-04-24 19:52:55,805 || INFO || numeric_functions || This we gonna log always.
+2020-04-24 19:52:55,805 || INFO || numeric_functions || 5 * 5 = 25
+2020-04-24 19:52:55,805 || INFO || numeric_functions || 5 * 10 = 50
+2020-04-24 19:52:55,805 || INFO || numeric_functions || 5 * -10 = -50
+2020-04-24 19:52:55,805 || INFO || numeric_functions || 5 - 5 = 0
+2020-04-24 19:52:55,805 || INFO || numeric_functions || 5 - 10 = -5
+2020-04-24 19:52:55,805 || INFO || numeric_functions || 5 - -10 = 15
+2020-04-24 19:53:39,387 || INFO || numeric_functions || 5 + 5 = 10
+2020-04-24 19:53:39,387 || INFO || numeric_functions || 5 + 10 = 15
+2020-04-24 19:53:39,387 || INFO || numeric_functions || 5 + -10 = -5
+2020-04-24 19:53:39,387 || INFO || numeric_functions || 5 / 5 = 1.0
+2020-04-24 19:53:39,387 || INFO || numeric_functions || This we gonna log always.
+2020-04-24 19:53:39,387 || INFO || numeric_functions || 5 / 10 = 0.5
+2020-04-24 19:53:39,388 || INFO || numeric_functions || This we gonna log always.
+2020-04-24 19:53:39,388 || INFO || numeric_functions || 5 / -10 = -0.5
+2020-04-24 19:53:39,388 || INFO || numeric_functions || This we gonna log always.
+2020-04-24 19:53:39,388 || ERROR || numeric_functions || Someone tried to divide by zero!
+Traceback (most recent call last):
+  File "/Users/julius/Documents/Python_Playgrounds/debug_unit/numeric_functions.py", line 27, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2020-04-24 19:53:39,388 || INFO || numeric_functions || This we gonna log always.
+2020-04-24 19:53:39,388 || INFO || numeric_functions || 5 * 5 = 25
+2020-04-24 19:53:39,388 || INFO || numeric_functions || 5 * 10 = 50
+2020-04-24 19:53:39,388 || INFO || numeric_functions || 5 * -10 = -50
+2020-04-24 19:53:39,388 || INFO || numeric_functions || 5 - 5 = 0
+2020-04-24 19:53:39,388 || INFO || numeric_functions || 5 - 10 = -5
+2020-04-24 19:53:39,388 || INFO || numeric_functions || 5 - -10 = 15
+2020-04-24 19:54:22,852 || INFO || numeric_functions || 5 + 5 = 10
+2020-04-24 19:54:22,852 || INFO || numeric_functions || 5 + 10 = 15
+2020-04-24 19:54:22,852 || INFO || numeric_functions || 5 + -10 = -5
+2020-04-24 19:54:22,853 || INFO || numeric_functions || 5 / 5 = 1.0
+2020-04-24 19:54:22,853 || INFO || numeric_functions || 5 / 10 = 0.5
+2020-04-24 19:54:22,853 || INFO || numeric_functions || 5 / -10 = -0.5
+2020-04-24 19:54:22,853 || ERROR || numeric_functions || Someone tried to divide by zero!
+Traceback (most recent call last):
+  File "/Users/julius/Documents/Python_Playgrounds/debug_unit/numeric_functions.py", line 27, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2020-04-24 19:54:22,853 || INFO || numeric_functions || 5 * 5 = 25
+2020-04-24 19:54:22,853 || INFO || numeric_functions || 5 * 10 = 50
+2020-04-24 19:54:22,853 || INFO || numeric_functions || 5 * -10 = -50
+2020-04-24 19:54:22,853 || INFO || numeric_functions || 5 - 5 = 0
+2020-04-24 19:54:22,853 || INFO || numeric_functions || 5 - 10 = -5
+2020-04-24 19:54:22,853 || INFO || numeric_functions || 5 - -10 = 15
+2020-04-24 19:58:43,129 || INFO || numeric_functions || 5 + 5 = 10
+2020-04-24 19:58:43,129 || INFO || numeric_functions || 5 + 10 = 15
+2020-04-24 19:58:43,129 || INFO || numeric_functions || 5 + -10 = -5
+2020-04-24 19:58:43,129 || INFO || numeric_functions || 5 / 5 = 1.0
+2020-04-24 19:58:43,129 || INFO || numeric_functions || This we gonna log always.
+2020-04-24 19:58:43,129 || INFO || numeric_functions || 5 / 10 = 0.5
+2020-04-24 19:58:43,129 || INFO || numeric_functions || This we gonna log always.
+2020-04-24 19:58:43,129 || INFO || numeric_functions || 5 / -10 = -0.5
+2020-04-24 19:58:43,129 || INFO || numeric_functions || This we gonna log always.
+2020-04-24 19:58:43,129 || ERROR || numeric_functions || Someone tried to divide by zero!
+Traceback (most recent call last):
+  File "/Users/julius/Documents/Python_Playgrounds/debug_unit/numeric_functions.py", line 27, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2020-04-24 19:58:43,130 || INFO || numeric_functions || This we gonna log always.
+2020-04-24 19:58:43,130 || INFO || numeric_functions || 5 * 5 = 25
+2020-04-24 19:58:43,130 || INFO || numeric_functions || 5 * 10 = 50
+2020-04-24 19:58:43,130 || INFO || numeric_functions || 5 * -10 = -50
+2020-04-24 19:58:43,130 || INFO || numeric_functions || 5 - 5 = 0
+2020-04-24 19:58:43,130 || INFO || numeric_functions || 5 - 10 = -5
+2020-04-24 19:58:43,130 || INFO || numeric_functions || 5 - -10 = 15

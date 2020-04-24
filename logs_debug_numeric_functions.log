@@ -1,0 +1,17 @@
+2020-04-24 20:09:26,307 || INFO || numeric_functions || 5 + 5 = 10
+2020-04-24 20:09:26,308 || INFO || numeric_functions || 5 + 10 = 15
+2020-04-24 20:09:26,308 || INFO || numeric_functions || 5 + -10 = -5
+2020-04-24 20:09:26,308 || INFO || numeric_functions || 5 / 5 = 1.0
+2020-04-24 20:09:26,308 || DEBUG || numeric_functions || This we gonna log always.
+2020-04-24 20:09:26,308 || INFO || numeric_functions || 5 / 10 = 0.5
+2020-04-24 20:09:26,308 || DEBUG || numeric_functions || This we gonna log always.
+2020-04-24 20:09:26,308 || INFO || numeric_functions || 5 / -10 = -0.5
+2020-04-24 20:09:26,308 || DEBUG || numeric_functions || This we gonna log always.
+2020-04-24 20:09:26,308 || ERROR || numeric_functions || Someone tried to divide by zero!
+2020-04-24 20:09:26,308 || DEBUG || numeric_functions || This we gonna log always.
+2020-04-24 20:09:26,308 || INFO || numeric_functions || 5 * 5 = 25
+2020-04-24 20:09:26,308 || INFO || numeric_functions || 5 * 10 = 50
+2020-04-24 20:09:26,309 || INFO || numeric_functions || 5 * -10 = -50
+2020-04-24 20:09:26,309 || INFO || numeric_functions || 5 - 5 = 0
+2020-04-24 20:09:26,309 || INFO || numeric_functions || 5 - 10 = -5
+2020-04-24 20:09:26,309 || INFO || numeric_functions || 5 - -10 = 15
